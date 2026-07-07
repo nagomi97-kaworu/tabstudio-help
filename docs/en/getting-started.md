@@ -4,30 +4,18 @@
 
 This guide walks through the basic workflow of TAB Studio.
 
+> **Automatic AI transcription from video/YouTube/audio is a planned feature currently
+> in development.** The steps below describe what's available today: loading an
+> existing TAB file.
+
 ## 1. Load a song
 
-Use the **File** menu to load a song in one of the following ways:
+Use the **File** menu:
 
 - **Open TAB file**: open an existing Guitar Pro file (.gp/.gp5, etc.)
-- **Open video file**: import audio from a local video file
-- **Open YouTube URL**: import audio from a YouTube URL
 - **Open project**: open a previously saved project (.tabsp)
 
-## 2. Transcribe with AI
-
-When you load audio from a video/YouTube/audio source, click **Start Analysis** in the
-analysis panel on the right. Automatic AI transcription will run; processing time depends
-on the song length.
-
-You can adjust the transcription result using:
-
-- Minimum note length / quantize (how fine notes are rounded)
-- Capo position
-- String assignment re-tuning
-
-Once transcription finishes, the result is automatically displayed as TAB notation.
-
-## 3. Review and play back the TAB
+## 2. Review and play back the TAB
 
 The TAB notation (standard notation / tablature) is shown in the center of the screen.
 
@@ -35,7 +23,7 @@ The TAB notation (standard notation / tablature) is shown in the center of the s
 - Use the playback speed slider to change tempo
 - Drag across the notation to select a range for loop playback
 
-## 4. Adjust volume and instruments in the Track Mixer
+## 3. Adjust volume and instruments in the Track Mixer
 
 In the **Track Mixer** tab on the right, you can control, per track:
 
@@ -48,10 +36,20 @@ In the **Track Mixer** tab on the right, you can control, per track:
 The **Global Mixer** tab lets you adjust the overall song, video audio, and master volume
 together.
 
-## 5. Save your project
+## 4. Save your project
 
 Use **File → Save Project** to save the TAB, mixer settings, instrument assignments, and
 more in one file. Use **Open Project** next time to resume from the same state.
+
+## Coming soon (in development)
+
+- Importing audio from video files / YouTube URLs
+- Automatic AI transcription (including minimum note length, quantize, capo position,
+  and string assignment adjustments)
+- Synchronized video + TAB playback
+
+These will be rolled out progressively. We'll announce progress via updates to this
+repository.
 
 ## Need more help?
 

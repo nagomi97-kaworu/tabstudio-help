@@ -19,15 +19,8 @@
 
 ## Playback stutters or stops
 
-- Check whether another heavy process (such as AI analysis) is running at the same time
+- Check whether another heavy process is running at the same time
 - Reloading the song (restarting TAB Studio) may help
-
-## AI transcription doesn't finish / doesn't progress
-
-- Processing time varies greatly with song length and PC performance. Long songs or
-  songs with many instruments take longer
-- If progress doesn't change after a while, restart the app and try again
-- If it still doesn't work, please let us know via "Report a Bug"
 
 ## The project file (.tabsp) won't open
 

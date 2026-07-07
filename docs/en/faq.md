@@ -4,17 +4,12 @@
 
 ### Q. What file formats are supported?
 
-TAB loading supports Guitar Pro formats (.gp/.gp5, etc.). Audio import supports common
-video file formats as well as YouTube URLs.
+TAB loading supports Guitar Pro formats (.gp/.gp5, etc.).
 
-### Q. AI transcription accuracy seems lower than expected
+### Q. Can I get automatic AI transcription from video or YouTube?
 
-Accuracy depends on the song (number of instruments, overlapping notes, mix balance,
-etc.). Adjusting "minimum note length," "quantize," "capo position," and "string
-assignment" in the analysis panel may help.
-
-If it still doesn't improve, please let us know via **Report a Bug / Send Feedback**,
-including the song (a YouTube URL or audio characteristics if possible).
+This is a planned feature currently in development and not yet available. We'll
+announce availability via updates to this repository.
 
 ### Q. I want to add a VSTi instrument (plugin)
 

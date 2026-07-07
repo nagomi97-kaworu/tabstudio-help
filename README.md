@@ -4,8 +4,10 @@
 
 User help and support hub for TAB Studio.
 
-TAB Studio is a desktop app that transcribes video/YouTube/audio into TAB notation
-(guitar, bass, etc.) using AI, and lets you view, edit, and play it back.
+TAB Studio is a desktop app for viewing, editing, and playing back TAB notation
+(guitar, bass, etc.). Automatic AI transcription from video/YouTube/audio is a
+**planned feature** — see [Getting Started](docs/en/getting-started.md) for what's
+available today.
 
 > This repository is for user support only. The application's source code is not
 > included here.
@@ -42,8 +44,9 @@ To create an Issue directly, use one of these templates:
 
 TAB Studio(タブスタジオ)のユーザー向けヘルプ・サポート窓口リポジトリです。
 
-TAB Studio は、動画・YouTube・音声ファイルから AI で採譜し、ギター/ベース等の
-TAB譜として表示・編集・再生できるデスクトップアプリです。
+TAB Studio は、ギター/ベース等のTAB譜を表示・編集・再生できるデスクトップアプリです。
+動画・YouTube・音声からのAI自動採譜は**将来機能(開発中)**です。現在使える機能については
+[使い方ガイド](docs/ja/getting-started.md)をご覧ください。
 
 > このリポジトリはユーザーサポート専用です。アプリ本体のソースコードはここには
 > 含まれていません。
