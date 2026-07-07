@@ -11,16 +11,9 @@ TAB loading supports Guitar Pro formats (.gp/.gp5, etc.).
 This is a planned feature currently in development and not yet available. We'll
 announce availability via updates to this repository.
 
-### Q. I want to add a VSTi instrument (plugin)
+### Q. I want to add a VSTi instrument (plugin) / use effects
 
-You can select from VST3 plugins already installed on your PC from the instrument (INST)
-field in the Track Mixer. You need to install the plugin itself separately beforehand.
-
-### Q. I saved a project but the instrument settings are gone when I reopen it
-
-This may be related to a known limitation around how some VSTi plugins save/restore
-their internal state. If you can identify the steps that reproduce it, please let us
-know via "Report a Bug" — we'll prioritize investigating it.
+See [VST Plugins (Instruments & Effects)](vst.md).
 
 ### Q. Can I sync video and TAB playback?
 

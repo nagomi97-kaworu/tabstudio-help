@@ -36,6 +36,8 @@ In the **Track Mixer** tab on the right, you can control, per track:
 The **Global Mixer** tab lets you adjust the overall song, video audio, and master volume
 together.
 
+See [VST Plugins (Instruments & Effects)](vst.md) for details on instruments and effects.
+
 ## 4. Save your project
 
 Use **File → Save Project** to save the TAB, mixer settings, instrument assignments, and
@@ -53,6 +55,7 @@ repository.
 
 ## Need more help?
 
+- [VST Plugins (Instruments & Effects)](vst.md)
 - [FAQ](faq.md)
 - [Troubleshooting](troubleshooting.md)
 - If the above doesn't solve your issue, use **Help → Report a Bug / Send Feedback** in
